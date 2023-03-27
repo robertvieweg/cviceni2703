@@ -1,2 +1,4 @@
 # cviceni2703
-lorem ipsum tohle chtěl Pepa i já
+lorem ipsum tohle chtěl Pepa
+y=123
+nejaka funkce
